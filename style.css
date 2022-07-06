@@ -259,3 +259,11 @@ section {
     background-color: brown;
     color: aliceblue;
 }
+
+#page-footer {
+    text-align: center;
+    background-color: navy;
+    color: whitesmoke;
+    height: 100px;
+    padding-top: 60px;
+}
