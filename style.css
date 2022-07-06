@@ -267,3 +267,11 @@ section {
     height: 100px;
     padding-top: 60px;
 }
+
+.simple {
+    border: none;
+    border-bottom: 3px solid rgb(54, 50, 50);
+    text-align: center;
+    font-size: 25px;
+    margin-left: 700px;
+}
