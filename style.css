@@ -145,29 +145,33 @@ body {
     padding-right: 100px;
 }
 
-
 #main div {
     width: 150px;
     height: 100px;
-
 }
+
+
 
 .food img {
     width: 8%;
     height: 8%;
     padding-left: 5px;
-    padding-top: 5px;
+    padding-top: 25px;
 
 }
 
 .shalter img {
     width: 8%;
     height: 8%;
+    padding-left: 5px;
+    padding-top: 25px;
 }
 
 .education img {
     width: 8%;
     height: 8%;
+    padding-left: 5px;
+    padding-top: 25px;
 }
 
 
@@ -176,19 +180,23 @@ body {
     border: 2px solid white;
     margin-right: 15px;
     padding-left: 10px;
-    padding top: 10px;
+    padding-top: 10px;
 }
 
 .shalter {
     background-color: coral;
     border: 2px solid white;
     margin-right: 15px;
+    padding-left: 10px;
+    padding-top: 10px;
 }
 
 .education {
     background-color: khaki;
     border: 2px solid white;
     margin-right: 15px;
+    padding-left: 10px;
+    padding-top: 10px;
 }
 
 .new-div {
